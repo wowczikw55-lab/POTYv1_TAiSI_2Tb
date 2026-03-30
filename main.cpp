@@ -181,7 +181,6 @@ void binaryGame(){ // number shows on 7-segment, player has to press the corresp
   delay(10);
 }
 
-// ==================== AI GENERATED SLOP ANIMATIONS! ====================
 
 void knightRiderMode() { // LED scanning effect (like KITT from Knight Rider)
   static uint8_t pos = 0;
